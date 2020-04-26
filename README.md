@@ -19,7 +19,7 @@ void panduan(string s)
         }
         if(f==1)
         {
-            cout<<"("<<S[1]<<","<<s<<")"<<endl;
+            cout<<"("<<S[1]<<", "<<s<<")"<<endl;
         }
     }
 
